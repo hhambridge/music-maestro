@@ -1,0 +1,7 @@
+{
+    "username": "",
+    "scope": "user-library-read",
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "http://google.com"
+}

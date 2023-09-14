@@ -1,0 +1,9 @@
+name: spotipy
+
+dependencies:
+  - python=3.8
+  - pandas
+  - tqdm
+  - pip
+  - pip:
+      - spotipy
