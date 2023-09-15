@@ -21,4 +21,5 @@ After updating the `parameters.json` file, run the following:
 ```
 python retrieve_user_data.py -p parameters.json
 ```
+If prompted, copy-paste the URL from the browser window that opens into your command prompt.
 
